@@ -1,1 +1,2 @@
 # enoswmaster
+gravando umas informações
